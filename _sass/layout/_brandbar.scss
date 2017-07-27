@@ -1,0 +1,16 @@
+.brandbar {
+  position: fixed;
+  height: 2.5em;
+  width:100%;
+  background-color: _palette(lcc-green);
+  z-index: _misc(z-index-base);
+
+  & p {
+    font-family: _font(family);
+    color: _palette(bg);
+    padding: 0em 1.5em 1em;
+    font-size: 1.35em;
+		letter-spacing: _font(letter-spacing);
+		line-height: 2;
+  }
+}
