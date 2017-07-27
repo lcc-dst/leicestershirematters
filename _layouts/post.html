@@ -38,7 +38,7 @@
             {% if post.url != page.url %}
               {% if forloop.index < 6 or found %}
                 <li class="postnav">
-                  <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>{% if post.number %}<span class="postitemnumber">{{ post.number }}</span>{% endif %}
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>{% if post.number %}<span class="postitemnumber">{{ post.number }}</span>{% endif %}
                 </li>
               {% endif %}
             {% else %}
