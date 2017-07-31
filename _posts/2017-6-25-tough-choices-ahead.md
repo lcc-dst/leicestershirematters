@@ -4,6 +4,7 @@ title: Tough choices ahead
 description: It has been tough and it's getting even tougher - that's the latest budget message
 image: assets/images/R0309-Tough-Choices-01.jpg
 number: 1
+nav-menu: true
 ---
 
 > It has been tough and it’s getting even tougher – that’s the latest budget message, making fair funding essential.
