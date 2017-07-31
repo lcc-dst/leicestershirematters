@@ -40,11 +40,11 @@ Trish added: “Where children have gone on to be adopted, some of their adopted
 
 “As you can imagine we get Christmas cards in the hundreds. Fostering is rewarding, but it is not always an easy ride. It is hard to say goodbye, you’ve got to love the children and give a little bit of yourself to them.  "It is fantastic to see them settled and enjoying life with their new families." 
 
-## <a class="icon alt fa-question"> Who can adopt or foster for Leicestershire?
+## <i class="icon alt fa-question"> Who can adopt or foster for Leicestershire?
 **You need to be 21 or over. For most types of fostering you would need to have a spare bedroom. A spare bedroom is needed for adoption. Please get in touch with the team to discuss.**
 {:.box}
 
- <a class="icon alt fa-check"> You can be:
+ <i class="icon alt fa-check"> You can be:
 
 *   married, single, in a civil partnership, living with a partner, divorced or widowed
 -   straight or gay
