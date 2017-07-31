@@ -36,6 +36,6 @@ QuitReady Leicestershire offers free and confidential text, phone and webchat ad
 
 [Visit quitready.co.uk](http://www.quitready.co.uk)
 
-<a class="icon fa-mobile"> Text 'ready' to 66777
+<i class="icon fa-mobile"> Text 'ready' to 66777
 
-<a class="icon fa-phone"> Call 0345 646 66 66
+<i class="icon fa-phone"> Call 0345 646 66 66
