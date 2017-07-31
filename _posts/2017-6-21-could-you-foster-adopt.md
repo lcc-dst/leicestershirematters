@@ -57,7 +57,7 @@ Trish added: “Where children have gone on to be adopted, some of their adopted
 
 **To find out more about fostering and adoption call 0116 305 0505.**  
 Or visit us online:  
-[fosteringleicestershire.com](https://www.FosteringLeicestershire.com)  
-[adoptionleicestershire.com](https://www.adoptionLeicestershire.com)  
+[fosteringleicestershire.com](http://www.FosteringLeicestershire.com)  
+[adoptionleicestershire.com](http://www.adoptionLeicestershire.com)  
 <a href="https://www.facebook.com/FosteringLeicestershire" class="icon fa-facebook"> @FosteringLeicestershire</a>
 {:.box}
