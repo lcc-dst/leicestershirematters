@@ -34,4 +34,4 @@ Coun Rhodes continued:  “The good news is that we’ve planned ahead. We don�
 ![Fair funding]({{ site.baseurl }}/assets/images/R0309-Tough-Choices-Fair-Funding-logo.png){:class="quoteimage"}
 We've published interactive charts, enabling you to explore the facts and figures and send us your views
 {:.box}
-*View fair funding page*{:.button}
+[View fair funding page](https://www.leicestershire.gov.uk/fairfunding){:.button}
