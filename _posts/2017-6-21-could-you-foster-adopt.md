@@ -4,6 +4,7 @@ title: Could you foster or adopt?
 description: A rallying call for people to consider becoming foster carers and adopters is being made.
 image: assets/images/R0309-Could-you-foster-01.jpg
 number: 5
+nav-menu: true
 ---
 
 > A rallying call for people to consider becoming foster carers and adopters is being made.
