@@ -4,6 +4,7 @@ title: £355 million boost for roads and transport
 description: Leicestershire has ambitious plans to grow the economy and boost jobs – and we’re investing in our roads to support this.
 image: assets/images/R0309-Roads-01.jpg
 number: 6
+nav-menu: true
 ---
 
 > Leicestershire has ambitious plans to grow the economy and boost jobs – and we’re investing in our roads to support this.
