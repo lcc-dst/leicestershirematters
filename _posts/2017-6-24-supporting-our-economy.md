@@ -15,9 +15,9 @@ More and more companies are making the county their home, bringing jobs and putt
 The city and county are great places to live and do business, and we work very closely with the Local Enterprise Partnership, and Leicester City Council, to support the economy across both areas.
 
 And by working together with the Government, we want to devolve powers and money so that we can take decisions locally - particularly over planning for housing, economic development and skills and transport infrastructure.
-Businesses need reliable, fit-for-the-future communications. That’s why we’ve put more than £33m into superfast broadband – 97 per cent of residents can access the network and we’re rolling it out to the remaining 13,000 properties. By the end of 2017, we’re on course to bring high-speed fibre technology to more than 82,000 premises.
+Businesses need reliable, fit-for-the-future communications. That’s why we’ve put more than £33m into superfast broadband – 97 per cent of residents will be able access the network and we’re seeking solutions to roll it out to as many of the remaining 13,000 properties as possible. By September 2018, we will deliver superfast high-speed fibre technology to more than 74,000 premises.
 
-#### <i class="icon fa-laptop"> 97% of Leicestershire residents will have access to superfast broadband by 2018
+#### <i class="icon fa-laptop"> 97% of Leicestershire residents will have access to superfast fibre broadband by 2018
 {:.box}
 
 Companies also want quality premises and we’ve developed a number of high-spec industrial units. By bringing new life to old commercial sites, we’re making it attractive for businesses to set up shop in Leicestershire. Airfield Farm and Leaders Farm in Harborough are already thriving sites and more are on the way.
