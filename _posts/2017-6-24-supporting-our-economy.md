@@ -4,6 +4,7 @@ title: Supporting our economy
 description: Budgets are becoming increasingly stretched, but supporting Leicestershire's booming economy remains a top priority
 image: assets/images/R0309-Supporting-our-economy-01.jpg
 number: 2
+nav-menu: true
 ---
 
 >Budgets are becoming increasingly stretched, but supporting Leicestershire’s booming economy remains a top priority.
