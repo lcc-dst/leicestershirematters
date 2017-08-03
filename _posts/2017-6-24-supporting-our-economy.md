@@ -40,4 +40,4 @@ We’re calling on the government to let us use fines to fund speed cameras in s
 
 
 ### <i class="icon fa-home"> COUNCIL TAX
-If district councils upped council tax collection rates and improved forecasting, it could generate an extra £6.3 million a year for public sector services. Council leader Nick Rushton has called on district council leaders to support a review: “If we overhauled the system – and had one way of collecting council tax, we’d save money and increase the amount raised  for vital council, police and fire services.”
+If we could work with district councils to up council tax collection rates and improve forecasting, it could generate more money for public services. Estimates show at least £5 million could be raised. Last month, council leader Nick Rushton asked district council leaders to support a review: “If we overhauled the system – and had one way of collecting council tax, we’d save money and increase the amount raised for vital council, police and fire services.”
