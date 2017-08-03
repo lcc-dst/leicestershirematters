@@ -4,6 +4,7 @@ title: Social care bringing support together
 description: We want older and vulnerable people to be independent, to get support within communities, and to get value for money services
 image: assets/images/R0309-Social-Care-01.jpg
 number: 3
+nav-menu: true
 ---
 
 > We want older and vulnerable people to be independent, to get support within communities, and to get value for money services

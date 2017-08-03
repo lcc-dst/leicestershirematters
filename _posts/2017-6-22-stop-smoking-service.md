@@ -4,6 +4,7 @@ title: Stop smoking service helps 600 people
 description: A new stop smoking service has already helped more than 600 people kick the habit this year
 image: assets/images/R0309-Stop-Smoking-Quit-Ready.jpg
 number: 4
+nav-menu: true
 ---
 
 >A new stop smoking service has already helped more than 600 people kick the habit. Below, Lynn from Whitwick explains the difference it has made to her life.
